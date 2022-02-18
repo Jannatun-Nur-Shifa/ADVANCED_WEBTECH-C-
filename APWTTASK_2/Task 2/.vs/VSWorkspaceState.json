@@ -1,0 +1,16 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\public",
+    "\\public\\image",
+    "\\resources",
+    "\\resources\\views",
+    "\\resources\\views\\inc",
+    "\\resources\\views\\layouts",
+    "\\resources\\views\\pages",
+    "\\resources\\views\\pages\\login",
+    "\\resources\\views\\pages\\registration",
+    "\\routes"
+  ],
+  "PreviewInSolutionExplorer": false
+}
